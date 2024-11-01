@@ -1,10 +1,10 @@
 # AI-Powered-Stalking-Detection-System
 Building AI course project
 
-## 1. Project Overview
+##Summary
 Develop an AI system to identify stalking messages (potentially expandable to mobbing and bullying) and generate alerts to notify authorities or guardians. It functions similarly to spam detection algorithms, applying logistic regression or other methods to accurately identify stalking messages.
 
-## 2. Background
+## 1. Background
 **Problem**: Stalking, mobbing, and bullying are pervasive issues affecting individuals' mental health and safety. The lack of automated systems to detect such messages on popular messaging platforms like WhatsApp exacerbates the problem.
 
 **Prevalence**: These issues are alarmingly common, with millions of cases reported globally each year.
@@ -13,7 +13,7 @@ Develop an AI system to identify stalking messages (potentially expandable to mo
 
 **Importance**: Creating an automated alert system can significantly reduce harm by prompting timely interventions.
 
-## 3. Data and AI Techniques
+## 2. Data and AI Techniques
 **Data Sources**: Utilizes data from messaging platforms, pre-labeled datasets of stalking, mobbing, and bullying messages. These sources need to be carefully curated to ensure data quality and representativeness.
 
 **Techniques**:
@@ -40,12 +40,12 @@ model = LogisticRegression()
 model.fit(X, labels)
 ```
 
-## 4. Use Case and Target Audience
+## 3. Use Case and Target Audience
 **Context**: Implementation as an add-on service for messaging platforms like WhatsApp.
 
 **Users**: Individuals at risk, guardians of minors, educational institutions, and law enforcement agencies.
 
-## 5. Challenges
+## 4. Challenges
 **Limitations**:
 **False positives/negatives**: Need for high precision and recall.
 
@@ -53,7 +53,7 @@ model.fit(X, labels)
 
 **Dynamic language**: Adapting to evolving language and slang used in stalking.
 
-## 6. Future Directions
+## 5. Future Directions
 **Expansion**:
 
 Broaden scope to include mobbing and bullying.
