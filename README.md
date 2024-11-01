@@ -6,7 +6,7 @@ Develop an AI system to identify stalking messages (potentially expandable to mo
 ## 2. Background
 **Problem**: Stalking, mobbing, and bullying are pervasive issues affecting individuals' mental health and safety. The lack of automated systems to detect such messages on popular messaging platforms like WhatsApp exacerbates the problem.
 
-**Prevalence****: These issues are alarmingly common, with millions of cases reported globally each year.
+**Prevalence**: These issues are alarmingly common, with millions of cases reported globally each year.
 
 **Motivation**: Personal safety and mental well-being are critical. An effective detection system could help protect vulnerable individuals by providing timely alerts.
 
