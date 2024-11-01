@@ -1,4 +1,5 @@
 # AI-Powered-Stalking-Detection-System
+Building AI course project
 
 ## 1. Project Overview
 Develop an AI system to identify stalking messages (potentially expandable to mobbing and bullying) and generate alerts to notify authorities or guardians. It functions similarly to spam detection algorithms, applying logistic regression or other methods to accurately identify stalking messages.
